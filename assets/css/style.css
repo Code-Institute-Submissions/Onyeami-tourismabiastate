@@ -72,12 +72,16 @@ li {
     font-size: 3rem;
     color: #ff6600;
     margin-bottom: 2rem;
+    text-transform: capitalize
 }
 #ije {
     color: #ff6600;
+    font-weight: bolder;
+    text-transform: uppercase;
 }
 #permit {
     font-size: 1.2rem;
+    font-weight: bold;
 }
 .content {
     display: grid;
