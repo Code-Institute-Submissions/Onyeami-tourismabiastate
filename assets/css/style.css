@@ -173,31 +173,6 @@ header a:hover {
 header a:active {
     border-bottom: 2px solid #fff;
 }
-@media screen and (max-width:768px) {
-    nav {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .logo {
-        margin-bottom: 1rem;
-    }
-
-    ul {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    nav li {
-        margin: 0.5rem 0;
-    }
-    .content {
-        grid-template-columns: 1fr;
-    }
-    .column img {
-        margin-bottom: 20px;
-    }
-}
 #ike {
     text-align: center;
     font-size: 50px;
@@ -268,4 +243,78 @@ header a:active {
 }
 .best {
     text-align: justify;
+}
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+footer span {
+    margin-right: 1rem;
+}
+footer a {
+    color: #ff6600;
+    margin: 0 0.5rem;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+@media screen and (max-width:768px) {
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logo {
+        margin-bottom: 1rem;
+    }
+
+    ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav li {
+        margin: 0.5rem 0;
+    }
+
+    .content {
+        grid-template-columns: 1fr;
+    }
+
+    .column img {
+        margin-bottom: 20px;
+    }
+
+    section .content {
+        grid-template-columns: 1fr;
+    }
+
+    #articles {
+        flex-direction: column;
+    }
+
+    header.logo {
+        font-size: 1.2rem;
+    }
+
+    header ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header li {
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+
+    .welcome {
+        margin: 1rem 0;
+    }
+
+    article {
+        padding: 1rem;
+    }
 }
