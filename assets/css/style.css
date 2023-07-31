@@ -244,6 +244,11 @@ header a:active {
 .best {
     text-align: justify;
 }
+@media (max-width: 702px) {
+    .wrapper .box {
+        width: 100%;
+    }
+}
 footer {
     text-align: center;
     background-color: #333;
