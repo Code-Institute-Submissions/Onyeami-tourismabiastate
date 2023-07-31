@@ -369,6 +369,12 @@ footer a:hover {
     line-height: 1.6;
     color: #444;
 }
+#additional-info {
+    margin-left: 50px;
+    resize: vertical;
+    border: 1px solid #ccc;
+    padding: 8px;
+}
 @media (max-width: 768px) {
     .services {
         grid-template-columns: 1fr;
