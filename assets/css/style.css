@@ -318,3 +318,59 @@ footer a:hover {
         padding: 1rem;
     }
 }
+.our {
+    background-color: #fff;
+    padding: 3rem 1rem;
+    text-align: center;
+}
+.our h1 {
+    font-size: 3rem;
+    color: #ff6600;
+    margin-bottom: 2rem;
+}
+.our p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+.our strong {
+    color: #ff6600;
+    font-size: 1.2rem;
+}
+.services {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+    margin: 40px 0;
+}
+.service {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.service figure {
+    margin-bottom: 20px;
+}
+.service img, .service video {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.service figcaption {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff6600;
+    margin-top: 10px;
+}
+.service p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #444;
+}
+@media (max-width: 768px) {
+    .services {
+        grid-template-columns: 1fr;
+    }
+}
