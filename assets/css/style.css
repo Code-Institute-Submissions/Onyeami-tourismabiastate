@@ -524,3 +524,79 @@ textarea:focus {
     font-size: 14px;
     text-align: center;
 }
+.about {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+.about h1 {
+    font-size: 24px;
+    text-align: center;
+    color: #ff6600;
+    margin-bottom: 15px;
+}
+.about p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+.about figure {
+    margin: 20px 0;
+}
+.about figure img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+.about figure p {
+    font-size: 14px;
+    text-align: center;
+    color: #777;
+    margin-top: 5px;
+}
+.mission h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #ff6600;
+    text-align: center;
+}
+.mission p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.choose h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #ff6600;
+}
+.choose ul {
+    list-style: none;
+    padding: 0px;
+    margin: 20px;
+}
+
+.choose li {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.choose li::before {
+    content: "\2022";
+    font-size: 14px;
+    margin-right: 5px;
+    color: #ff6600;
+}
+.discover h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #ff6600;
+}
+.discover p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
