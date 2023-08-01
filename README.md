@@ -42,7 +42,7 @@ At Onye-Ije Tourism Company, we are very passionate about creating unforgettable
      - Key facts and figures about Abia State
      - Map highlighting major cities and landmarks.
 
-  3. _Explore Abia_
+  3. _Gallery_
 
      - Categories of tourist attractions (e.g., Natural Wonders, Cultural Sites, Historical Landmarks, Adventure Activities)
      - List of popular tourist attractions under each category
