@@ -12,9 +12,9 @@ At Onye-Ije Tourism Company, we are very passionate about creating unforgettable
 
 ## The Design of the Website
 
-- The colour scheme used is green, white and brown
+- The colour scheme used is orange and white.
 
-- The typography used is Montserrat font, being the main font and sans serif as the fall-back font.
+- The typography used is Arial font, being the main font and sans serif as the fall-back font.
 
 - The features are interactive elements and are responsive on all device sizes.
 
@@ -35,7 +35,7 @@ At Onye-Ije Tourism Company, we are very passionate about creating unforgettable
      - A brief overview of the website and its purpose.
      - The navigation menu to access different sections of the website.
 
-  2. _About Abia State_
+  2. _About Us_
 
      - Information about Abia State, its location, and significance.
      - History of the state and its cultural heritage.
@@ -49,7 +49,7 @@ At Onye-Ije Tourism Company, we are very passionate about creating unforgettable
      - Brief descriptions, images, and highlights of each attraction
      - Links to detailed pages for each attraction with additional information
 
-  4. _Plan Your Visit_
+  4. _Services_
 
      - Travel tips and guidelines for visiting Abia State
      - Information on transportation options within the state
@@ -75,11 +75,8 @@ At Onye-Ije Tourism Company, we are very passionate about creating unforgettable
   8. _Contact Us_
 
      - Contact form for general inquiries, feedback, and partnership opportunities
-     - Social media links to connect with Onye-Ije Tourism's official accounts
      - Contact details for Onye-Ije Tourism Company.
      - Office address and phone numbers for direct communication.
 
   9. _Footer_
-     - Copyright notice and legal information
-     - Quick links to important sections of the website
-     - Privacy policy and terms of use
+     - Social media links to connect with Onye-Ije Tourism's official accounts
